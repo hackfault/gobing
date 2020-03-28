@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "XCFDr6QvMUzfbvy1VGw4cMWhf18=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "844d6bd46b293ce07cd2e48d259f6ea2b48e31b6",
+			"revisionTime": "2020-02-24T23:34:32Z"
+		}
+	],
+	"rootPath": "github.com/hackfault/gobing"
+}
